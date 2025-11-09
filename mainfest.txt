@@ -1,0 +1,2 @@
+Main-Class: View.MainFrame
+Class-Path: sqlite-jdbc-3.51.0.0.jar
